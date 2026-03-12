@@ -76,29 +76,3 @@ Python 3.x
 
 No external libraries are required. The game only uses Python's built-in modules.
 
-▶️ How to Run the Game
-
-Clone this repository
-
-git clone https://github.com/yourusername/hangman-python.git
-
-Navigate into the project folder
-
-cd hangman-python
-
-Run the program
-
-python hangman.py
-📚 What I Learned
-
-While building this project, I practiced:
-
-Using the random module
-
-Working with sets to store guessed letters
-
-Creating loops to control game flow
-
-Displaying game states using ASCII art
-
-Validating user input
